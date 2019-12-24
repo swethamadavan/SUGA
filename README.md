@@ -1,2 +1,2 @@
 # SUGA
-repo
+My First Repository
